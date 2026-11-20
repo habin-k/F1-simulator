@@ -1,0 +1,6 @@
+# Pinned to the versions used to run notebooks/02_telemetry_track_map.ipynb
+fastf1==3.9.2
+numpy==2.5.5
+pandas==2.3.3
+matplotlib==3.11.2
+pytest==9.2.0

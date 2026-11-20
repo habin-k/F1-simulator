@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# FastF1 API cache (large, re-downloadable)
+cache/
